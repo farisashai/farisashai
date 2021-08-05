@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisashai)](https://github.com/anuraghazra/github-readme-stats)
+[![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisashai&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **farisashai/farisashai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
