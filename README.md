@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![](https://github.com/farisashai/github-stats/blob/master/generated/overview.svg)
-
 ![](https://github.com/farisashai/github-stats/blob/master/generated/languages.svg)
 
 <!--
