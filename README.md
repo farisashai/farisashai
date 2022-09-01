@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisashai&layout=compact)](https://github.com/farisashai/github-readme-stats)
+
 ![](https://github.com/farisashai/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/farisashai/github-stats/blob/master/generated/languages.svg)
 
