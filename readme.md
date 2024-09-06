@@ -1,10 +1,10 @@
 ###
-Hey I'm [Faris](https://www.farisashai.me/)! (he/him) 👋
+Hi, I'm [Faris](https://www.farisashai.me/)! (he/him) 👋
 ---
 
-I'm a software engineer who specializes in front end web development with experience across full stack technologies, DevOps, Agile metholodogy, and UI/UX practices. Outside of coding, I spend lots of time drinking coffee & boba, chasing sunsets, and seeing live music. I'm always making memories with friends and trying to experience new things outside of my comfort zone. I'm constantly trying to support the communities that helped me get here with mentorship & tutoring efforts along with coordinating events to create new opportunities.
+I'm a software engineer that's passionate about building great products. I'm highly experienced across full-stack technologies including front end development (React, Next.js, TypeScript, SASS) and back-end development (Express, Django, Flask, SQL) in additional to DevOps, data analytics, and UI/UX among other things. I see opportunities and improvement in everything I do that let me deliver thoughtful results with great quality. Outside of coding, I spend lots of time drinking coffee & boba, chasing sunsets, and seeing live music. I'm always making memories with friends and trying to experience new things outside of my comfort zone. 
 
-**Software Engineer**, _Apple_ &nbsp;&nbsp;&nbsp; <br />
+**Current Software Engineer**, _Apple_ &nbsp;&nbsp;&nbsp; <br /> 
 **2022-23 Vice President of Development**, _ACM @ UCSD_ &nbsp;&nbsp;&nbsp; <br />
 **2021-22 Hackathon Director**, _TritonHacks_ &nbsp;&nbsp;&nbsp; <br />
 **Top 50**, _Major League Hacking_ &nbsp;&nbsp;&nbsp; <br />
