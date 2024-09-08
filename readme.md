@@ -2,7 +2,7 @@
 Hi, I'm [Faris](https://www.farisashai.me/)! (he/him) 👋
 ---
 
-I'm a software engineer that's passionate about building great products. I'm highly experienced across full-stack technologies including front end development (React, Next.js, TypeScript, SASS) and back-end development (Express, Django, Flask, SQL) in additional to DevOps, data analytics, and UI/UX among other things. I see opportunities and improvement in everything I do that let me deliver thoughtful results with great quality. Outside of coding, I spend lots of time drinking coffee & boba, chasing sunsets, and seeing live music. I'm always making memories with friends and trying to experience new things outside of my comfort zone. 
+I'm a software engineer that's passionate about building great products. I'm highly experienced across full-stack technologies including front end development (React, Next.js, TypeScript, SASS) and back-end development (Express, Django, Flask, SQL) in additional to DevOps, data analytics, and UI/UX among other things. I see opportunities and improvement in everything I do that let me deliver thoughtful results with great quality. Outside of coding, I love spending time drinking coffee & boba, chasing sunsets, seeing live music, and exploring the world.
 
 **Current Software Engineer**, _Apple_ &nbsp;&nbsp;&nbsp; <br /> 
 **2022-23 Vice President of Development**, _ACM @ UCSD_ &nbsp;&nbsp;&nbsp; <br />
